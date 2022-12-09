@@ -9,3 +9,6 @@ edition = "2021"
 
 [[bin]]
 name="day-1"
+
+[[bin]]
+name="day-2"
